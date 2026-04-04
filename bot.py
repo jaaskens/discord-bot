@@ -191,4 +191,4 @@ async def on_ready():
     auto_summary.start()
     print(f"✅ Bot wystartował jako {bot.user}")
 
-bot.run(TOKEN)
+bot.run("TOKEN")
